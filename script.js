@@ -66,7 +66,7 @@
         <a class="brand" href="${base}index.html">${data.siteTitle} / ${data.role}</a>
         <div class="nav-links">
           <a href="${base}index.html#projects">Projects</a>
-          <a href="${base}index.html#values">Values</a>
+          <a href="${base}index.html#values">Skills</a>
           <a href="${base}index.html#contact">Contact</a>
         </div>
       </div>
@@ -182,7 +182,7 @@
     values.innerHTML = `
       <section class="section" id="values">
         <div class="container">
-          <h2>My values</h2>
+          <h2>My Skills</h2>
           <div class="grid values-grid">
             ${data.values.map(v => `<div class="panel"><strong>${v}</strong></div>`).join('')}
           </div>

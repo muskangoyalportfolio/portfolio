@@ -85,14 +85,14 @@ window.PORTFOLIO_DATA = {
     },
     {
       "slug": "campaign-lookbook-sky",
-      "title": "Campaign Look Book (Sky)",
+      "title": "Campaign Look Book (SKY)",
       "short": "Storyboards, looks, product images, styling references, and shoot direction.",
       "associated_with": "TIGC",
       "cover": "page-15.webp",
       "pages": [
         [
           15,
-          "Sky campaign lookbook"
+          "SKY campaign lookbook"
         ],
         [
           16,

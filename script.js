@@ -194,8 +194,7 @@
         <div class="container contact-grid">
           <div class="panel contact-panel">
             <div class="kicker">Contact</div>
-            <h2 style="margin-top:10px;">Let’s start the conversation.</h2>
-            <p class="muted">Send a quick message from the form and your mail app will open with everything prefilled, so reaching out feels simple and direct.</p>
+            <h2 style="margin-top:10px;">Let’s get connected.</h2>
             <div class="contact-list">
               <div><strong>Phone</strong><a href="tel:${data.contact.phone}">${data.contact.phone}</a></div>
               <div><strong>Email</strong><a href="mailto:${data.contact.email}">${data.contact.email}</a></div>
